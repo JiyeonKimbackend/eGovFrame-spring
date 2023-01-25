@@ -9,6 +9,3 @@
 + **DB** : Oracle
 + **Server** : JEUS
 
-
-
-## 주요기능
